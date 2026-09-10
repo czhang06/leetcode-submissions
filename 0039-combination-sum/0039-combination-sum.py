@@ -19,10 +19,8 @@ class Solution(object):
             for j in range(i, len(candidates)):
                 num = candidates[j]
                 arr.append(num)
-                total += num
-                backtrack(arr, total, j)
+                backtrack(arr, total + num, j)
                 arr.pop()
-                total -= num
 
         backtrack([], 0, 0)
 
