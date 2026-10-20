@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/czhang06/leetcode-submissions/tree/master/0001-two-sum) |
 | [0322-coin-change](https://github.com/czhang06/leetcode-submissions/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/czhang06/leetcode-submissions/tree/master/0322-coin-change) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/czhang06/leetcode-submissions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
