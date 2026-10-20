@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/czhang06/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/czhang06/leetcode-submissions/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/czhang06/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/czhang06/leetcode-submissions/tree/master/0125-valid-palindrome) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
