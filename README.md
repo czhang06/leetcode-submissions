@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/czhang06/leetcode-submissions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/czhang06/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/czhang06/leetcode-submissions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/czhang06/leetcode-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/czhang06/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0322-coin-change](https://github.com/czhang06/leetcode-submissions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,8 +52,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/czhang06/leetcode-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/czhang06/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/czhang06/leetcode-submissions/tree/master/0049-group-anagrams) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
