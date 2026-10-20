@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/czhang06/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/czhang06/leetcode-submissions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/czhang06/leetcode-submissions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/czhang06/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0322-coin-change](https://github.com/czhang06/leetcode-submissions/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
@@ -46,4 +48,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/czhang06/leetcode-submissions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/czhang06/leetcode-submissions/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/czhang06/leetcode-submissions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
