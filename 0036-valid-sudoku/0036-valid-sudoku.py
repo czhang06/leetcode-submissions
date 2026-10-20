@@ -1,11 +1,5 @@
-class Solution(object):
-    def isValidSudoku(self, board):
-        """
-        :type board: List[List[str]]
-        :rtype: bool
-        """
-        
-
+class Solution:
+    def isValidSudoku(self, board: list[list[str]]) -> bool:
         boxes = [set() for n in range(9)]
         rows = [set() for n in range(9)]
         cols = [set() for n in range(9)]
@@ -25,4 +19,3 @@ class Solution(object):
                         cols[y].add(p)
         
         return True
-                    
