@@ -30,17 +30,10 @@ class Solution:
             prev = curr
             curr = nxt
         c2 = prev
-        curr = result
-        while c1 and c2:
-            curr.next = c1
-            c1 = c1.next
-            curr = curr.next
-            curr.next = c2
-            c2 = c2.next
-            curr = curr.next
-        if c1:
-            curr.next = c1
-        elif c2:
-            curr.next = c2
+        while c2:
+            n1, n2 = c1.next, c2.next
+            c1.next = c2
+            c2.next = n1
+            c1, c2 = n1, n2
         
         return result.next
