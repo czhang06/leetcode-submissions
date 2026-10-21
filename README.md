@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/czhang06/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/czhang06/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/czhang06/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/czhang06/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/czhang06/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/czhang06/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/czhang06/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/czhang06/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/czhang06/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 ## Heap (Priority Queue)
 |  |
@@ -227,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/czhang06/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/czhang06/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
