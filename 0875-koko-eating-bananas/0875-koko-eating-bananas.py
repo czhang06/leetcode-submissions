@@ -8,9 +8,9 @@ class Solution:
             m = (l + r) // 2
             n = 0
             for pile in piles:
+                n += (pile + m - 1) // m
                 if n > h:
                     break
-                n += math.ceil(pile / m)
             if n <= h:
                 res = m
                 r = m - 1
