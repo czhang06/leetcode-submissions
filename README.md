@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/czhang06/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/czhang06/leetcode-submissions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/czhang06/leetcode-submissions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/czhang06/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/czhang06/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/czhang06/leetcode-submissions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/czhang06/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/czhang06/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/czhang06/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/czhang06/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/czhang06/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
