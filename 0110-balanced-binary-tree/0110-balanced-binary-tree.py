@@ -12,9 +12,10 @@ class Solution:
             if not node:
                 return 0
             left = depth(node.left)
+            if left == -1:
+                return -1
             right = depth(node.right)
-            if abs(left - right) > 1:
-                res = False
+            if right == -1 or abs(left - right) > 1:
+                return -1
             return 1 + max(left, right)
-        depth(root)
-        return res
+        return depth(root) != -1
