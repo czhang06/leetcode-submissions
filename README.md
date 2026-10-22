@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/czhang06/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/czhang06/leetcode-submissions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/czhang06/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/czhang06/leetcode-submissions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/czhang06/leetcode-submissions/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/czhang06/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/czhang06/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/czhang06/leetcode-submissions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/czhang06/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/czhang06/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/czhang06/leetcode-submissions/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/czhang06/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/czhang06/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/czhang06/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/czhang06/leetcode-submissions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/czhang06/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -210,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/czhang06/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/czhang06/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/czhang06/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -327,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/czhang06/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/czhang06/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/czhang06/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
