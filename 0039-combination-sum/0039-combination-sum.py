@@ -1,28 +1,16 @@
-class Solution(object):
-    def combinationSum(self, candidates, target):
-        """
-        :type candidates: List[int]
-        :type target: int
-        :rtype: List[List[int]]
-        """
-        
+class Solution:
+    def combinationSum(self, candidates: list[int], target: int) -> list[list[int]]:
         result = []
-
-        candidates.sort()
-
-        def backtrack(arr, total, i):
+        def backtrack(start, curr, total):
+            if total == target:
+                result.append(curr[:])
             if total > target:
                 return
-            if total == target:
-                result.append(arr[:])
-                return
-            for j in range(i, len(candidates)):
-                num = candidates[j]
-                arr.append(num)
-                backtrack(arr, total + num, j)
-                arr.pop()
-
-        backtrack([], 0, 0)
-
-        return result            
-                
+            for i in range(start, len(candidates)):
+                curr.append(candidates[i])
+                backtrack(start, curr, total + candidates[i])
+                start += 1
+                curr.pop()
+        
+        backtrack(0, [], 0)
+        return result
