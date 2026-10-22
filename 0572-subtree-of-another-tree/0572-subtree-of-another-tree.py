@@ -15,6 +15,7 @@ class Solution:
             if node.val == subtree.val:
                 if compare(node, subtree):
                     result = True
+                    return
             explore(node.left, subtree)
             explore(node.right, subtree)
         def compare(t1, t2):
