@@ -1,25 +1,15 @@
-class Solution(object):
-    def generateParenthesis(self, n):
-        """
-        :type n: int
-        :rtype: List[str]
-        """
-        
+class Solution:
+    def generateParenthesis(self, n: int) -> list[str]:
         result = []
-
-        def backtrack(pars, l, r):
-            if l == 0 and r == 0:
-                result.append(str("".join(pars)))
+        def backtrack(curr, open, close):
+            if len(curr) == n * 2:
+                result.append(curr[:])
                 return
-            if l > 0:
-                pars.append("(")
-                backtrack(pars, l - 1, r)
-                pars.pop()
-            if r > l:
-                pars.append(")")
-                backtrack(pars, l, r - 1)
-                pars.pop()
+            if open < n:
+                backtrack(curr + "(", open + 1, close)
+            if close < open:
+                backtrack(curr + ")", open, close + 1)
             
-        backtrack([], n, n)
 
+        backtrack("", 0, 0)
         return result
