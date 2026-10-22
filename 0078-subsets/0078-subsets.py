@@ -2,10 +2,12 @@ class Solution:
     def subsets(self, nums: list[int]) -> list[list[int]]:
         result = []
 
-        def backtrack(curr, remaining):
-            result.append(curr)
-            for i in range(len(remaining)):
-                backtrack(curr + [remaining[i]], remaining[i + 1:])
+        def backtrack(start, curr):
+            result.append(curr[:])
+            for i in range(start, len(nums)):
+                curr.append(nums[i])
+                backtrack(i + 1, curr)
+                curr.pop()
 
-        backtrack([], nums)
+        backtrack(0, [])
         return result  
