@@ -17,5 +17,5 @@ class Solution:
             explore(node.left, msf)
             explore(node.right, msf)
         
-        explore(root, -1 * 10**4 - 1)
+        explore(root, float('-inf'))
         return result
