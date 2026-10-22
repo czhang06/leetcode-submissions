@@ -5,15 +5,14 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isSubtree(self, root: TreeNode | None, subRoot: TreeNode | None) -> bool:
-        if not root:
-            return False
-        if self.isSame(root, subRoot):
-            return True
-        return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
-    def isSame(self, a, b):
-        if not a and not b:
-            return True
-        if not a or not b or a.val != b.val:
-            return False
-        return self.isSame(a.left, b.left) and self.isSame(a.right, b.right)
+    def isMatch(self, s, t):
+        if not(s and t):
+            return s is t
+        return (s.val == t.val and 
+                self.isMatch(s.left, t.left) and 
+                self.isMatch(s.right, t.right))
+
+    def isSubtree(self, s, t):
+        if self.isMatch(s, t): return True
+        if not s: return False
+        return self.isSubtree(s.left, t) or self.isSubtree(s.right, t)
