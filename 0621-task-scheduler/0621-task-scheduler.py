@@ -17,9 +17,11 @@ class Solution:
             time += 1
             if heap:
                 cnt = heapq.heappop(heap) + 1
+
                 if cnt != 0:
                     dq.append((cnt, time + n))
-            if dq and dq[0][1] == time:
-                heapq.heappush(heap, dq.popleft()[0])
+            if dq:
+                if dq[0][1] == time:
+                    heapq.heappush(heap, dq.popleft()[0])
         
         return time
