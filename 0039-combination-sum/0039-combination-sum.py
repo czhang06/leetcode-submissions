@@ -8,8 +8,7 @@ class Solution:
                 return
             for i in range(start, len(candidates)):
                 curr.append(candidates[i])
-                backtrack(start, curr, total + candidates[i])
-                start += 1
+                backtrack(i, curr, total + candidates[i])
                 curr.pop()
         
         backtrack(0, [], 0)
