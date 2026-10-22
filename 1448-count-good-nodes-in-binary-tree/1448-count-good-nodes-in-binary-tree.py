@@ -13,8 +13,9 @@ class Solution:
                 return
             if node.val >= msf:
                 result += 1
-            explore(node.left, max(node.val, msf))
-            explore(node.right, max(node.val, msf))
+            msf = max(node.val, msf)
+            explore(node.left, msf)
+            explore(node.right, msf)
         
         explore(root, -1 * 10**4 - 1)
         return result
