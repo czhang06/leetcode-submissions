@@ -4,6 +4,7 @@ class Solution:
         def backtrack(used, curr):
             if len(curr) == len(nums):
                 result.append(curr[:])
+                return
             for i in range(len(nums)):
                 if nums[i] not in used:
                     curr.append(nums[i])
