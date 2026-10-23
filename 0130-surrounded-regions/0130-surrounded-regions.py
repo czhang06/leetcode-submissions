@@ -41,4 +41,3 @@ class Solution:
                 elif board[a][b] == "O":
                     board[a][b] = "X"
         
-        return board
