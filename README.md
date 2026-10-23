@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/czhang06/leetcode-submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/czhang06/leetcode-submissions/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/czhang06/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/czhang06/leetcode-submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/czhang06/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/czhang06/leetcode-submissions/tree/master/0853-car-fleet) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/czhang06/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/czhang06/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/czhang06/leetcode-submissions/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/czhang06/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/czhang06/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Knapsack Problem
 |  |
@@ -202,11 +204,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/czhang06/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/czhang06/leetcode-submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/czhang06/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/czhang06/leetcode-submissions/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/czhang06/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/czhang06/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/czhang06/leetcode-submissions/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
 | ------- |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/czhang06/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/czhang06/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/czhang06/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/czhang06/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/czhang06/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
