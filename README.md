@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/czhang06/leetcode-submissions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/czhang06/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/czhang06/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/czhang06/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/czhang06/leetcode-submissions/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/czhang06/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/czhang06/leetcode-submissions/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/czhang06/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/czhang06/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/czhang06/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Knapsack Problem
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/czhang06/leetcode-submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/czhang06/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/czhang06/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/czhang06/leetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
