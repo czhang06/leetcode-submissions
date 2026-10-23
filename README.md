@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/czhang06/leetcode-submissions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/czhang06/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/czhang06/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/czhang06/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/czhang06/leetcode-submissions/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/czhang06/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/czhang06/leetcode-submissions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/czhang06/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/czhang06/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/czhang06/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/czhang06/leetcode-submissions/tree/master/0853-car-fleet) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/czhang06/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/czhang06/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/czhang06/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/czhang06/leetcode-submissions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/czhang06/leetcode-submissions/tree/master/0621-task-scheduler) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/czhang06/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/czhang06/leetcode-submissions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/czhang06/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/czhang06/leetcode-submissions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/czhang06/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/czhang06/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/czhang06/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/czhang06/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
