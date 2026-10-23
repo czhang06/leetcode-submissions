@@ -1,33 +1,23 @@
-class Solution(object):
-    def exist(self, board, word):
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-        height = len(board)
-        width = len(board[0])
-
-        def backtrack(y, x, i):
+class Solution:
+    def exist(self, board: list[list[str]], word: str) -> bool:
+        h, w = len(board), len(board[0])
+        directions = [(0, 1), (0, -1), (-1, 0), (1, 0)]
+        result = False
+        def bt(y, x, i):
             if i == len(word):
                 return True
-
-            temp = board[y][x]
-            board[y][x] = "#"
-
-            for dy, dx in directions:
-                ny, nx = y + dy, x + dx
-
-                if (0 <= ny < height and
-                    0 <= nx < width and
-                    board[ny][nx] == word[i]):
-
-                    if backtrack(ny, nx, i + 1):
-                        return True
-
-            board[y][x] = temp
-            return False
-
-        for y in range(height):
-            for x in range(width):
-                if board[y][x] == word[0]:
-                    if backtrack(y, x, 1):
-                        return True
-
+            if x < 0 or y < 0 or x >= w or y >= h or i >= len(word) or board[y][x] != word[i] or (y, x) in used:
+                return False
+            used.add((y, x))
+            for a, b in directions:
+                if bt(y + a, x + b, i + 1):
+                    used.remove((y, x))
+                    return True
+            used.remove((y, x))
+        used = set()
+        for y in range(h):
+            for x in range(w):
+                if bt(y, x, 0):
+                    return True
         return False
+                
