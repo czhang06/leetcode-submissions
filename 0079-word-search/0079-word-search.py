@@ -5,6 +5,8 @@ class Solution:
         word_count = Counter(word)
         if any(board_count[c] < word_count[c] for c in word_count):
             return False
+        if board_count[word[0]] > board_count[word[-1]]:
+            word = word[::-1]
         h, w = len(board), len(board[0])
         directions = [(0, 1), (0, -1), (-1, 0), (1, 0)]
         result = False
