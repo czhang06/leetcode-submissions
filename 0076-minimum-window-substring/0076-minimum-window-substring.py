@@ -14,7 +14,8 @@ class Solution:
         r = 0
 
         result = ""
-
+        best_len= float('inf')
+        best_l = 0
         while True:
             count[s[r]] += 1
             if count[s[r]] >= d[s[r]] and s[r] in letters:
@@ -23,10 +24,9 @@ class Solution:
             while l < len(s) and count[s[l]] > d[s[l]]:
                 count[s[l]] -= 1
                 l += 1
-            if len(complete) == len(letters):
-                if r - l < len(result) or result == "":
-                    result = s[l:r]
+            if len(complete) == len(letters) and r - l < best_len:
+                best_l, best_len = l, r - l
             if r >= len(s):
                 break
-        return result
+        return s[best_l:best_l + best_len] if best_len != float('inf') else ""
 
