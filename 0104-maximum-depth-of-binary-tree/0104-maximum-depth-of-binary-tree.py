@@ -9,16 +9,16 @@ class Solution:
         if not root:
             return 0
         
-        stack = [(root, 1)]
+        dq = deque([root])
 
-        result = 0
+        depth = 0
 
-        while stack:
-            node, depth = stack.pop()
-            result = max(result, depth)
-            if node.left:
-                stack.append((node.left, depth + 1))
-            if node.right:
-                stack.append((node.right, depth + 1))
-        
-        return result
+        while dq:
+            depth += 1
+            for i in range(len(dq)):
+                node = dq.popleft()
+                if node.left:
+                    dq.append(node.left)
+                if node.right:
+                    dq.append(node.right)
+        return depth
