@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/czhang06/leetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/czhang06/leetcode-submissions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/czhang06/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/czhang06/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/czhang06/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/czhang06/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/czhang06/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/czhang06/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/czhang06/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/czhang06/leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/czhang06/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/czhang06/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/czhang06/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/czhang06/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/czhang06/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/czhang06/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/czhang06/leetcode-submissions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/czhang06/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/czhang06/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/czhang06/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/czhang06/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/czhang06/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/czhang06/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/czhang06/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/czhang06/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/czhang06/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/czhang06/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/czhang06/leetcode-submissions/tree/master/0155-min-stack) |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/czhang06/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/czhang06/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/czhang06/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/czhang06/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/czhang06/leetcode-submissions/tree/master/0853-car-fleet) |
 ## Bracket Sequences
