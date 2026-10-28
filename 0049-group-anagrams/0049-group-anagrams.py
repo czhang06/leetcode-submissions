@@ -6,7 +6,4 @@ class Solution:
             for c in word:
                 count[ord(c) - ord('a')] += 1
             groups[tuple(count)].append(word)
-        result = []
-        for key in groups:
-            result.append(groups[key])
-        return result
+        return list(groups.values())
