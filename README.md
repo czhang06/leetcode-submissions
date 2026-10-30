@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/czhang06/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/czhang06/leetcode-submissions/tree/master/0355-design-twitter) |
+| [0383-ransom-note](https://github.com/czhang06/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/czhang06/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/czhang06/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/czhang06/leetcode-submissions/tree/master/0621-task-scheduler) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/czhang06/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/czhang06/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/czhang06/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/czhang06/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/czhang06/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/czhang06/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/czhang06/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/czhang06/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/czhang06/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/czhang06/leetcode-submissions/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
