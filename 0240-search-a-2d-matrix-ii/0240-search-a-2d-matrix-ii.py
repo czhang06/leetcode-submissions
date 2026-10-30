@@ -8,9 +8,9 @@ class Solution:
             curr = matrix[sy][sx]
             if curr == target:
                 return True
-            if curr < target:
+            elif curr < target:
                 sy += 1
-            if curr > target:
+            elif curr > target:
                 sx -= 1
         
         return False
